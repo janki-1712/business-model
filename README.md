@@ -15,4 +15,4 @@ Step 3: To run the app, `streamlit run App.py` in the terminal open in the worki
 
 ## WORKING MODEL
 
-link: https://snshahgit-telecom-customer-churn-modelling-app-develop-smf8v4.streamlitapp.com/
+link: https://janki-1712-business-model-app-4dt87o.streamlitapp.com/
