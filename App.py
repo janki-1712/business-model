@@ -130,7 +130,7 @@ def tech():
     scrolling=True,
     )
 def ml():
-  st.write("To view the complete code for the end-to-end project, visit our [GitHub](https://github.com/snshahgit/telecom-customer-churn-modelling)")
+  st.write("To view the complete code for the end-to-end project, visit our [GitHub](https://github.com/janki-1712/business)")
   components.iframe("https://www.kaggle.com/embed/sns5154/telecom-customer-churn-modelling-accuracy-83?kernelSessionId=100308416",height=1000,)
 
 
